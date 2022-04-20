@@ -2,6 +2,8 @@
  Responsive Design Sample-1 for freelancing
  
 ## Sample Pics
+![WhiteSite](https://user-images.githubusercontent.com/73527944/164274529-cc7073c5-ce5e-4854-8211-0543850fc44f.png)
+
 ### Type-1
 ![image](https://user-images.githubusercontent.com/73527944/163724727-6d019cd1-b64c-4083-9f94-34502f0fd369.png)
 
